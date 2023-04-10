@@ -1,0 +1,49 @@
+﻿<?xml version = '1.0' encoding = 'UTF-8'?>
+<and-documents>
+	 <classification label='Puidu kvaliteet' desc='Puidu kvaliteeti puudutavad nõuded ja standardid' order='20'>
+		<document label='RMK palkide standard (06.10.2022)' order='10' type='pdf'>https://juhendid.rmk.ee/pdfs/rmk_palkide_standard_06.10.2022.pdf</document>
+		<document label='RMK virnmaterjali kvaliteedistandard (16.03.2021)' order='20' type='pdf'>https://juhendid.rmk.ee/pdfs/rmk_virnmaterjalide_standard_2021-03-16.pdf</document>
+     </classification>
+	 <classification label='Juhendid töödele' desc='Juhendid metsatööde teostamiseks' order='30'>
+	 
+		<document label='RMK säilikpuude juhend (28.10.2021)' order='15' type='pdf'>https://juhendid.rmk.ee/pdfs/RMK_Sailikpuude_juhend_28102021.pdf</document> 
+		<document label='RMK puiduvarumisel elupaikade struktuurielementide ja puhverribade säilitamise juhend (21.10.2021)' order='20' type='pdf'>https://juhendid.rmk.ee/pdfs/RMK_puiduvarumisel_elupaikade_struktuurielementide_ja_puhverribade_sailitamise_juhend_21102021.pdf</document>
+		<document label='Harvestermõõtmise juhend (11.09.2019)' order='30' type='pdf'>https://juhendid.rmk.ee/pdfs/harvestermootmise_juhend_2019.pdf</document>
+		
+		<document label='Metsateede kasutamise hea tava (11.04.2016)' order='60' type='pdf'>https://juhendid.rmk.ee/pdfs/Metsateede_kasutamise_hea_tava_11042016.pdf</document>
+		<document label='Paki mõõtmise näited (19.11.2016)' order='70' type='pdf'>https://juhendid.rmk.ee/pdfs/paki_parameetrite_mootmise_naited_20161119.pdf</document>
+		<document label='RMK keskkonnanõuded mootorsõidukitega ja saagidega töötamisel (27.04.2022)' order='70' type='pdf'>https://juhendid.rmk.ee/pdfs/rmk_keskkonnanouded_mootorsoidukitega_ja_saagidega_tootamisel_27042022.pdf</document>
+		<document label='RMK nõuded isikukaitsevahendite kasutamiseks (27.04.2022)' order='70' type='pdf'>https://juhendid.rmk.ee/pdfs/rmk_nõuded_isikukaitsevahendite_kasutamiseks_27042022.pdf</document>
+	 
+		<document label='RMK ohutusjuhend metsamasinaga töötamisel (31.05.2022)' order='85' type='pdf'>https://juhendid.rmk.ee/pdfs/juhatuse_otsuse_lisa_rmk_ohutusjuhend_metsamasinaga_tootamisel_31052022.pdf</document>
+		<document label='RMK ohutusjuhend võsa- ja kettsaega ning trimmeriga töötamisel (31.05.2022)' order='90' type='pdf'>https://juhendid.rmk.ee/pdfs/RMK_ohutusjuhend_võsa_ja_kettsaega_ning_trimmeriga_töötamisel_31052022.pdf</document>
+		<document label='Veokijuhi kohustused metsamaterjali laadimisel avalikult kasutatavatel teedel (27.09.2022)' order='90' type='pdf'>https://juhendid.rmk.ee/pdfs/Veokijuhi_kohustused_metsamaterjali_laadimisel_avalikult_kasutatavatel_teedel_27092022.pdf</document>
+		<document label='Veokijuhi meelespea (06.10.2022)' order='85' type='pdf'>https://juhendid.rmk.ee/pdfs/Veokijuhi_meelespea_06102022.pdf</document>
+		<document label='Forvarderi- ja põllumajandustraktori operaatori meelespea (06.10.2022)' order='90' type='pdf'>https://juhendid.rmk.ee/pdfs/Forvarderi_ja_põllumajandustraktori_operaatori_meelespea_06102022.pdf</document>
+	    
+	 </classification>
+	 
+	 <classification label='Metsakorraldus' desc='Metsakorralduse abimaterjalid' order='40'>
+		<document label='Boniteedid' order='10' type='pdf'>https://juhendid.rmk.ee/pdfs/metsakorraldus_boniteedid_v2.pdf</document>
+		<document label='Metsamullad ja metsatüübid' order='20' type='pdf'>https://juhendid.rmk.ee/pdfs/metsakorraldus_metsamullad_metsatyybid_v2.pdf</document>
+		<document label='Tagavarad ja rinnaspindalad' order='30' type='pdf'>https://juhendid.rmk.ee/pdfs/metsakorraldus_tagavarad_rinnaspindalad_v2.pdf</document>
+		<document label='Harvendusraiete piirnormid' order='40' type='pdf'>https://juhendid.rmk.ee/pdfs/harvendusraiete_piirnormid_301115_v2.pdf</document>
+     </classification>
+	 
+	 <classification label='Rakenduste juhendid' desc='Mobiilsete rakenduste juhendid' order='45'>
+	 
+		<document label='Traktorist - forwarderi / kokkuveo rakenduse juhend (23.02.2021)' order='10' type='pdf'>https://juhendid.rmk.ee/pdfs/Forwarder_rakenduse_juhend_230221.pdf</document>
+		<document label='Chipper - hakkuri rakenduse juhend (02.10.2019)' order='20' type='pdf'>https://juhendid.rmk.ee/pdfs/chipper_021019.pdf</document>
+		<document label='ChipsDriver - hakkpuidurekka rakenduse juhend (28.03.2013)' order='30' type='pdf'>https://juhendid.rmk.ee/pdfs/chipsdriver.pdf</document>
+		<document label='TimberDriver - &#252;marpuiduveo autojuhi rakendus (27.07.2020)' order='40' type='pdf'>https://juhendid.rmk.ee/pdfs/TimberDriver_rakenduse_juhend.pdf</document>
+		<document label='AMK - Andmed metsa kaasa rakenduse juhend (28.05.2021)' order='50' type='pdf'>https://juhendid.rmk.ee/pdfs/amk_juhend_28052021.pdf</document>
+		
+		<document label='Metsakasvatuse Metsamees juhend (07.04.2020)' order='100' type='pdf'>https://juhendid.rmk.ee/pdfs/metsamehe_rakenduse_juhend_v1.pdf</document>
+		<document label='Mergin Maps rakenduse kasutusjuhend (08.11.2022)' order='150' type='pdf'>https://juhendid.rmk.ee/pdfs/MerginMaps_kasutusjuhend08112022.pdf</document>
+		
+	 </classification>
+	 
+     <classification label='Koolitusmaterjalid' desc='Erinevad koolitusmaterjalid' order='50'>
+
+     </classification>
+</and-documents>
